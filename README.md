@@ -1,7 +1,7 @@
 - 👋 Hi, I’m gowthaman
-- 👀 I’m interested in application development and artificial intelligence.
-- 🌱 I’m currently learning mobile application development.
-- 📫 Reach me at ksgowthaman9462@gmail.com
+- 👀 Interested in application development and artificial intelligence.
+- 🌱 Currently learning mobile application development.
+- 📫 Reach me at igowthamanks@gmail.com
 
 <!---
 igowthaman/igowthaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
