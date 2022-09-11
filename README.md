@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gowthaman
-- 👀 Interested in application development and artificial intelligence.
+- 👀 Interested in web application development and artificial intelligence.
 - 🌱 Currently learning mobile application development.
 - 📫 Reach me at gowthamanks17@gmail.com
 - 🔗 My Linkedin profile https://www.linkedin.com/in/igowthaman/
