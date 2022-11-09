@@ -1,5 +1,5 @@
 <center><h1><b>Hi 👋 , I'm  Gowthaman </b></h1></center>
-<center><b style="font-size:20px;">Student, Programmer and Developer </b></center>
+<center><b style="font-size:20px;">Student, Programmer and Developer </b></center><br>
 - 👀 Interested in web application development.
 - 🌱 Currently learning Flutter.
 - 📫 Reach me at gowthamanks17@gmail.com
