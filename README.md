@@ -11,5 +11,5 @@
 ### Languages and Tools:
 <img src="https://igowthaman.github.io/img/python.svg" style="width:35px;"> <img src="https://igowthaman.github.io/img/flask.svg" style="width:35px;"> <img src="https://igowthaman.github.io/img/git.svg" style="width:35px;"> <img src="https://igowthaman.github.io/img/mysql.svg" style="width:40px;"> <img src="https://igowthaman.github.io/img/flutter.svg" style="width:35px;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=igowthaman)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=igowthaman)]
 </body>
