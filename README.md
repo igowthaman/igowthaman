@@ -5,7 +5,7 @@
 - 👀 Interested in web application development
 - 🌱 Currently learning Next.js
 - 📫 Reach me at gowthamanks17@gmail.com
-- 💻 Personal Portfolio https://igowthaman.github.io/
+- 💻 Personal blog https://devthoughtz.com/
 - 🔗 My Linkedin profile https://www.linkedin.com/in/igowthaman/
 
 ### Languages and Tools:
